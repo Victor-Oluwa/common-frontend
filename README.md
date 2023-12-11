@@ -1,5 +1,5 @@
-# UI Common
-Package with pre-made settings, extensions and widgets that are common in my build of frontends with flutter.
+# Common Frontend
+A package containing pre-configured settings, extensions, and commonly used widgets tailored for my Flutter frontend builds.
 
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
